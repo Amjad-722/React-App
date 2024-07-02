@@ -7,7 +7,7 @@ function Graps() {
       <img 
         src="https://static-01.daraz.pk/p/72e9667881e9bd0ddeb944c9f0abb1ce.jpg_750x750.jpg_.webp" 
         alt="Graps Image"
-        className="mt-4 h-" 
+        className="mt-4 rounded-3xl" 
       />
     </div>
   );
