@@ -22,6 +22,9 @@ const App = () => {
             <li>
               <Link to="/Graps">Graps</Link>
             </li>
+            <li>
+              <Link to="../Banana/BananaDetails">BananaDetails</Link>
+            </li>
           </ul>
         </nav>
         <div className="mt-10">
